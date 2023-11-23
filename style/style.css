@@ -67,7 +67,7 @@ height: 180px;
 }
 
 .container{
-  margin-top: 10px;
+  margin-top: 20px;
 
 }
 
@@ -78,7 +78,7 @@ height: 180px;
 
 .col{
   background-color:#D45DA3;
-  width: 500px;
+  width: 900px;
 }
 
 .one{
@@ -87,4 +87,8 @@ height: 180px;
 
 .two{
   background-color: #D8267F;
+}
+
+.welcome{ 
+  background-color: #D45DA3;
 }
