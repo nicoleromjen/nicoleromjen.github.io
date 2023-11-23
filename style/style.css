@@ -81,14 +81,7 @@ height: 180px;
   width: 900px;
 }
 
-.one{
-  background-color: #997C8D;
-}
-
-.two{
-  background-color: #D8267F;
-}
-
 .welcome{ 
   background-color: #D45DA3;
+  height: fit-content;
 }
